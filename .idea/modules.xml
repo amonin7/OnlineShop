@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DisCompHW.iml" filepath="$PROJECT_DIR$/.idea/DisCompHW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DisCompHW.AuthService.iml" filepath="$PROJECT_DIR$/.idea/modules/DisCompHW.AuthService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DisCompHW.AuthService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DisCompHW.AuthService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DisCompHW.AuthService.test.iml" filepath="$PROJECT_DIR$/.idea/modules/DisCompHW.AuthService.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ShopBackend/DisCompHW.ShopBackend.iml" filepath="$PROJECT_DIR$/.idea/modules/ShopBackend/DisCompHW.ShopBackend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DisCompHW.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DisCompHW.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DisCompHW.test.iml" filepath="$PROJECT_DIR$/.idea/modules/DisCompHW.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ShopBackend.DisCompHW.iml" filepath="$PROJECT_DIR$/.idea/modules/ShopBackend.DisCompHW.iml" />
+    </modules>
+  </component>
+</project>
